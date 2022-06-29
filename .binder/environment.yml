@@ -27,3 +27,7 @@ dependencies:
   - pip:
       - git+https://github.com/ansible/ansible-jupyter-kernel.git#egg=ansible-kernel
       - ipynb
+  - xeus-cling=0.13.0
+  - xtensor=0.23.0
+  - xtensor-blas=0.19.0
+  - notebook
