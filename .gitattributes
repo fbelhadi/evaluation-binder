@@ -1,5 +1,6 @@
 *.ipynb filter=git-crypt diff=git-crypt
 *solution*.py filter=git-crypt diff=git-crypt
+*solution*.cpp filter=git-crypt diff=git-crypt
 Introduction.ipynb !filter !diff
 "How to run a session.ipynb" !filter !diff
 "Binder Analytics.ipynb" !filter !diff
